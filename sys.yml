@@ -1,0 +1,444 @@
+- id: 0x02FD
+  en: '{:width 90}Fully restores target´s TP. Restores Charge
+
+    Gauge during TP Charge. An equippable item.{:reset}'
+- id: 0x02FF
+  en: 'Fully restores target´s HP and TP.
+
+   An equippable item.'
+- id: 0x0303
+  en: '{:width 90}Fully restores Party´s TP. Restores Charge
+
+    Gauge during TP Charge. An equippable item.{:reset}'
+- id: 0x0305
+  en: 'Fully restores Party´s HP and TP.
+
+    An equippable item.'
+- id: 0x0481
+  en: 'TP Charge'
+- id: 0x05AD
+  en: 'Fully restores Party´s HP and TP.
+
+    Usable only from the Main Menu.'
+- id: 0x05C7
+  en: 'Has great strength, and allows
+
+    the Drive Gauge to restore quickly
+
+    during TP Charge.'
+- id: 0x0635
+  en: 'Flames appear and revolve around you.
+
+    {:width 90}Use from the Magic Command. {:color #F0F00080}TP Cost:{:width 100} 12{:reset}'
+- id: 0x0637
+  en: 'Unleashes ice crystals at the target.
+
+    {:width 90}Use from the Magic Command. {:color #F0F00080}TP Cost:{:width 100} 15{:reset}'
+- id: 0x0639
+  en: 'Drops lightning bolts on the target.
+
+    {:width 90}Use from the Magic Command. {:color #F0F00080}TP Cost:{:width 100} 18{:reset}'
+- id: 0x063B
+  en: 'Restores HP.
+
+    {:width 90}Use from the Magic Command. {:color #F0F00080}TP Cost:{:width 100} All{:reset}'
+- id: 0x063D
+  en: 'Emits a power that draws in the enemy.
+
+    {:width 90}Use from the Magic Command. {:color #F0F00080}TP Cost:{:width 100} 30{:reset}'
+- id: 0x063F
+  en: 'Fends and shoots back enemy attacks.
+
+    {:width 90}Use from the Magic Command. {:color #F0F00080}TP Cost:{:width 100} 10{:reset}'
+- id: 0x0AE3
+  en: 'Maximum TP Increased!'
+- id: 0x1DF8
+  en: '{:icon magic}TP Charge'
+- id: 0x1DF9
+  en: '{:icon magic-nocharge}Don´t TP Charge'
+- id: 0x1DFA
+  en: 'If there is not enough TP to use this
+
+    magic spell, wait a while and TP will
+
+    begin to regenerate until full.'
+- id: 0x1DFB
+  en: 'This magic spell cannot be used when
+
+    there is not enough TP.'
+- id: 0x2082
+  en: 'A shield with great strength.
+
+    Increases TP restoration speed
+
+    by {:color #F0F00080}25%{:reset} when all TP is consumed.'
+- id: 0x2084
+  en: '{:width 95}A shield with great strength. Restores TP
+
+    relative to the amount of damage taken.'
+- id: 0x32F4
+  en: 'Unleashes a firestorm that attacks
+
+    nearby enemies. {:color #F0F00080}TP Cost: 10{:reset}'
+- id: 0x32F6
+  en: 'Unleashes a barrage of ice at
+
+    the enemy. {:color #F0F00080}TP Cost: 10{:reset}'
+- id: 0x32F8
+  en: 'Call down a bombardment of lightning
+
+    bolts on your target! {:color #F0F00080}TP Cost: 10{:reset}'
+- id: 0x32FA
+  en: 'Cures Party Member´s HP.
+
+    {:color #F0F00080}TP Cost: All{:reset}'
+- id: 0x330A
+  en: 'Restores the Party´s HP.
+
+    {:color #F0F00080}TP Cost: 99{:reset}'
+- id: 0x330C
+  en: 'Knocks down nearby enemies with
+
+    enraged shouts. {:color #F0F00080}TP Cost: 10{:reset}'
+- id: 0x331F
+  en: 'Restores the Party´s HP.
+
+    {:color #F0F00080}TP Cost: 99{:reset}'
+- id: 0x3325
+  en: 'Restores the Party´s HP using
+
+    the powers of nature. {:color #F0F00080}TP Cost: 99{:reset}'
+- id: 0x3336
+  en: 'A Limit Command that uses teamwork
+
+    to unleash the powerful Trinity attack.
+
+    Consumes all of Sora´s TP.'
+- id: 0x3338
+  en: 'A Limit Command that unleashes
+
+    Donald´s powerful Comet spell.
+
+    Consumes all of Sora´s TP.'
+- id: 0x333A
+  en: 'A Limit Command that unleashes
+
+    Donald´s powerful Duck Flare spell.
+
+    Consumes all of Sora´s TP.'
+- id: 0x333C
+  en: 'A Limit Command that unleashes Goofy´s
+
+    spinning attack, Whirli-Goof.
+
+    Consumes all of Sora´s TP.'
+- id: 0x333E
+  en: 'A Limit Command that unleashes Goofy´s
+
+    and Sora´s joint attack, Knocksmash.
+
+    Consumes all of Sora´s TP.'
+- id: 0x3340
+  en: 'A Limit Command that unleashes Aladdin
+
+    and Sora´s joint attack, Speedster.
+
+    Consumes all of Sora´s TP.'
+- id: 0x3342
+  en: 'A Limit Command that unleashes Auron
+
+    and Sora´s joint attack, Bushido.
+
+    Consumes all of Sora´s TP.'
+- id: 0x3344
+  en: 'A Limit Command that unleashes Beast
+
+    and Sora´s joint attack, Twin Howl.
+
+    Consumes all of Sora´s TP.'
+- id: 0x3346
+  en: 'A Limit Command that unleashes Jack
+
+    and Sora´s joint attack, Dance Call.
+
+    Consumes all of Sora´s TP.'
+- id: 0x3348
+  en: 'A Limit Command that unleashes Mulan
+
+    and Sora´s joint attack, Red Rocket.
+
+    Consumes all of Sora´s TP.'
+- id: 0x334A
+  en: 'A Limit Command that unleashes Riku
+
+    and Sora´s joint attack, Session.
+
+    Consumes all of Sora´s TP.'
+- id: 0x334C
+  en: 'A Limit Command that unleashes Simba
+
+    and Sora´s joint attack, Wildcat.
+
+    Consumes all of Sora´s TP.'
+- id: 0x334E
+  en: 'A Limit Command that unleashes Jack
+
+    Sparrow and Sora´s joint attack, Bluff.
+
+    Consumes all of Sora´s TP.'
+- id: 0x3350
+  en: 'A Limit Command that unleashes Tron
+
+    and Sora´s joint attack, Setup.
+
+    Consumes all of Sora´s TP.'
+- id: 0x3626
+  en: 'Releases electricity to attack
+
+    nearby enemies. {:color #F0F00080}TP Cost: 10{:reset}'
+- id: 0x39FE
+  en: 'TP'
+- id: 0x3A46
+  en: 'Drastically increases magic and maximum
+
+    AP, and restores TP when damage is
+
+    taken. Equip more to increase the effect.'
+- id: 0x3A4E
+  en: '{:width 95}Drastically increases strength and
+
+    maximum AP. Increases MP restoration
+
+    speed by {:color #F0F00080}25%{:reset} after TP is fully consumed.'
+- id: 0x3BDF
+  en: '{:width 90}Increases strength by {:color #F0F00080}2{:reset}{:width 90} during TP Charge
+
+    and enables combos to continue endlessly.
+
+    The combo finishing move becomes unavailable.'
+- id: 0x3BE3
+  en: 'Allows greater restoration of
+
+    the Drive Gauge during MP Charge.
+
+    Equip more to increase the effect.'
+- id: 0x3BF5
+  en: 'Increases drop rate of munny, and HP
+
+    and TP orbs. Equip the whole Party to
+
+    further increase the drop rate.'
+- id: 0x3C00
+  en: 'TP Rage'
+- id: 0x3C01
+  en: 'Restores MP relative to the amount
+
+    of damage taken.
+
+    Equip more to increase the effect.'
+- id: 0x3C02
+  en: 'TP Haste'
+- id: 0x3C12
+  en: 'TP Hastera'
+- id: 0x3C14
+  en: 'TP Hastega'
+- id: 0x3C13
+  en: 'Increases TP restoration speed by
+
+    {:color #F0F00080}50%{:reset} after TP is fully consumed.
+
+    Equip more to increase the effect.'
+- id: 0x3C15
+  en: 'Increases TP restoration speed by
+
+    {:color #F0F00080}75%{:reset} after TP is fully consumed.
+
+    Equip more to increase the effect.'
+- id: 0x3C7E
+  en: 'Creates a vortex to draw enemies
+
+    close and attack them!{:color #F0F00080} TP Cost: 10{:reset}'
+- id: 0x3C82
+  en: 'Dashes through enemies, bouncing
+
+    them towards Sora.{:color #F0F00080} TP Cost: 10{:reset}'
+- id: 0x3C84
+  en: 'Stops enemy movements with a rapid
+
+    swarm of attacks. {:color #F0F00080}TP Cost: 10{:reset}'
+- id: 0x3C86
+  en: 'Pounces on the enemy to obtain orbs.
+
+    {:color #F0F00080}TP Cost: 10{:reset}'
+- id: 0x3C88
+  en: 'Attacks nearby enemies while flying
+
+    through the air. {:color #F0F00080}TP Cost: 10{:reset}'
+- id: 0x3C97
+  en: '{:width 90}An effective ranged attack, throwing a
+
+    shield at the enemy from afar. {:color #F0F00080}TP Cost: 10{:reset}'
+- id: 0x3C99
+  en: 'Attacks the enemy successively with
+
+    a rush of enraged tackles. {:color #F0F00080}TP Cost: 10{:reset}'
+- id: 0x3C9B
+  en: 'Becomes engulfed in flames and chases
+
+
+    the enemy. {:color #F0F00080}TP Cost: 10{:reset}'
+- id: 0x3C9D
+  en: 'Ice crystals form around and attack
+
+
+    the target. {:color #F0F00080}TP Cost: 10{:reset}'
+- id: 0x3CA1
+  en: 'Mushu attacks nearby enemies by
+
+    breathing fire. {:color #F0F00080}TP Cost: 10{:reset}'
+- id: 0x3C9F
+  en: 'Lightning bolts rain down upon
+
+    the target. {:color #F0F00080}TP Cost: 10{:reset}'
+- id: 0x3CA3
+  en: 'Rushes in and attacks enemies in midair
+
+    {:width 95}while engulfed in Mushu´s fire. {:color #F0F00080}TP Cost: 10{:reset}{:width 100}'
+- id: 0x3CA5
+  en: 'Blocks enemy attacks with a shield of
+
+    darkness as commanded. {:color #F0F00080}TP Cost: 10{:reset}'
+- id: 0x3CA9
+  en: 'Stops enemy movements with dark magic
+
+    spells as commanded when Sora´s
+
+    combo is about to end. {:color #F0F00080}TP Cost: 10{:reset}'
+- id: 0x3CAB
+  en: 'Attacks the target successively.
+
+    {:color #F0F00080}TP Cost: 10{:reset}'
+- id: 0x3CAD
+  en: 'Attacks surrounding enemies with an
+
+    earth-shaking battle cry. {:color #F0F00080}TP Cost: 10{:reset}'
+- id: 0x3CB5
+  en: 'Releases a disk that automatically
+
+    finds and attacks an enemy. {:color #F0F00080}TP Cost: 10{:reset}'
+- id: 0x3CAB
+  en: 'There is no escaping from this attack!
+
+    {:color #F0F00080}TP Cost: 10{:reset}'
+- id: 0x3CB9
+  en: 'There is no escaping from this attack!
+
+    {:color #F0F00080}TP Cost: 10{:reset}'
+- id: 0x3CBB
+  en: 'Throws weapons at the enemy
+
+    successively. {:color #F0F00080}TP Cost: 10{:reset}'
+- id: 0x3CBD
+  en: 'Throws bombs continuously at
+
+    the target. {:color #F0F00080}TP Cost: 10{:reset}'
+- id: 0x3DFD
+  en: 'Restores TP relative to the amount of
+
+    damage taken.'
+- id: 0x3E35
+  en: 'Has great strength, increasing
+
+    TP restoration speed by {:color #F0F00080}25%{:reset}
+
+    after TP is consumed.'
+- id: 0x3E3F
+  en: 'Wishes come true by increasing
+
+    the drop rate of munny, and HP
+
+    and TP orbs.'
+- id: 0x3E49
+  en: '{:width 95}Increases strength by {:color #F0F00080}2{:reset} {:width 95}during TP Charge
+
+    and enables combos to continue endlessly.
+
+    {:width 90}The combo finishing move becomes unavailable.'
+- id: 0x3E4F
+  en: '{:width 95}The Keyblade above all others.
+
+    Increases TP restoration rate by {:color #F0F00080}75%{:reset}
+
+    once all TP has been consumed.'
+- id: 0x3E55
+  en: 'A powerful staff with colossal magic
+
+    and strength. Restores TP relative to
+
+    the amount of damage taken.'
+- id: 0x455D
+  en: 'TP'
+- id: 0x4572
+  en: 'Current TP and maximum TP'
+- id: 0x457C
+  en: '{:width 90}A Level which increases by defeating certain
+
+    enemies. HP and TP increases, and special
+
+    powers are gained by leveling up.'
+- id: 0x4BDA
+  en: 'What is TP Charge?'
+- id: 0x4E42
+  en: 'A staff with great magic.
+
+    Increases TP restoration speed
+
+    by {:color #F0F00080}25%{:reset} after TP is fully consumed.'
+- id: 0x4E44
+  en: 'A staff with great magic.
+
+    Increases TP restoration speed
+
+    by {:color #F0F00080}50%{:reset} after TP is fully consumed.'
+- id: 0x4E46
+  en: 'A staff with great magic.
+
+    Increases TP restoration speed
+
+    by {:color #F0F00080}75%{:reset} after TP is fully consumed.'
+- id: 0x4E4A
+  en: 'A shield with the greatest defense.
+
+    Increases MP restoration speed
+
+    by {:color #F0F00080}75%{:reset} after TP is fully consumed.'
+- id: 0x4E8E
+  en: 'A Limit Command that unleashes an attack
+
+    on an enemy as you pass by. Press {:icon button-triangle} at
+
+    the right tempo for a combo. {:color #F0F00080}TP Cost:{:width 100} 60{:reset}'
+- id: 0x4E90
+  en: 'A Limit Command that unleashes
+
+    a powerful combo attack. Press {:icon button-triangle} for
+
+    a consecutive combo. {:color #F0F00080}TP Cost:{:width 100} 75{:reset}'
+- id: 0x4E92
+  en: 'A Limit Command that allows you to throw
+
+    the Keyblade at the target.
+
+    Press {:icon button-triangle} for a combo. {:color #F0F00080}TP Cost:{:width 100} 65{:reset}'
+- id: 0x4E94
+  en: 'A Limit Command that can be unleashed by
+
+    pressing {:icon button-triangle} after an aerial combo.
+
+    {:color #F0F00080}TP Cost:{:width 100} 80{:reset}'
+- id: 0x5382
+  en: 'A shield with great strength.
+
+    Increases TP restoration speed by {:color #F0F00080}50%{:reset}
+
+    when all TP is consumed.'
